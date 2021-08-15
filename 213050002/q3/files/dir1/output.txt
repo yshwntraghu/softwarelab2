@@ -1,0 +1,17 @@
+Path: files/dir1/addicted.txt LIne no: 7 Line: Could I breathe again?
+Path: files/dir1/addicted.txt LIne no: 10 Line: Baby, I'm a liar, but all I really know
+Path: files/dir1/addicted.txt LIne no: 22 Line: Baby, I'm a liar, but all I really know
+Path: files/dir1/addicted.txt LIne no: 37 Line: Baby, I'm a liar, but all I really know
+Path: files/dir1/addicted.txt LIne no: 19 Line: But I am afraid of losing you
+Path: files/temprature.txt LIne no: 43 Line: Just park it right here, keep it undercover
+Path: files/temprature.txt LIne no: 7 Line: Oh Lord, gyal I got the right tactics to turn you on, and girl I
+Path: files/temprature.txt LIne no: 18 Line: Oh Lord, gyal I got the right tactics to turn you on, and girl I
+Path: files/temprature.txt LIne no: 29 Line: Oh Lord, gyal I got the right tactics to turn you on, and girl I
+Path: files/temprature.txt LIne no: 38 Line: Oh Lord, gyal I got the right tactics to turn you on, and girl I
+Path: files/temprature.txt LIne no: 49 Line: Oh Lord, gyal I got the right tactics to turn you on, and girl I
+Path: files/temprature.txt LIne no: 60 Line: Oh Lord, gyal I got the right tactics to turn you on, and girl I
+Path: files/ilikeit.txt LIne no: 20 Line: Screaming like never before
+Path: files/ilikeit.txt LIne no: 40 Line: Screaming like never before
+Path: files/ilikeit.txt LIne no: 71 Line: Screaming like never before
+Path: files/ilikeit.txt LIne no: 79 Line: Screaming like never before
+Path: files/dir2/seeyouagain.txt LIne no: 26 Line: And that bond will never be broken, the love will never get lost
